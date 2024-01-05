@@ -1,0 +1,81 @@
+﻿@using Goods.Models;
+@model GoodsViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-left">
+    <h1 class="display-4">Список книг</h1>
+    <a href="/Goods/Add/" class="btn btn-primary">Добавить книгу</a>
+
+    <form action="/Goods/" method="post" class="row row-cols-lg-auto g-3 my-2 align-items-center">
+        <div class="col-12">
+            <label>Название книги</label>
+        </div>
+        <div class="col-12">
+            <input type="text" name="NameGoods" value="@Model.Filter.NameGoods" class="form-control" autocomplete="off" />
+        </div>
+        <div class="col-12">
+            <label>Год издания</label>
+        </div>
+        <div class="col-12">
+            <input type="text" name="VendorCode" value="@Model.Filter.VendorCode" class="form-control" />
+        </div>
+        <div class="col-12">
+            <label>Цена</label>
+        </div>
+        <div class="col-12">
+            <input type="text" name="Price" value="@Model.Filter.Price" class="form-control" />
+        </div>
+        <div class="col-12">
+            <label>Автор</label>
+        </div>
+        <div class="col-12">
+            <input type="text" name="ProductCategory" value="@Model.Filter.ProductCategory" class="form-control" />
+        </div>
+        <div class="col-12">
+            <label>Жанр</label>
+        </div>
+        <div class="col-12">
+            <select name="GroupId" class="form-control">
+                <option value="">-</option>
+                @foreach (var group in Model.Groups ?? new List<GroupDto>())
+                {
+                    <option value="@group.Id" selected="@(Model.Filter?.GroupId == group.Id)">@group.Name</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Найти</button>
+        </div>
+    </form>
+
+    <table class="table">
+        <tr>
+            <th>Id</th>
+            <th>Название книги</th>
+            <th>Год издания</th>
+            <th>Цена</th>
+            <th>Автор</th>
+            <th>Жанр</th>
+            <th>Действия</th>
+        </tr>
+        @foreach (var goods in Model.Goods)
+        {
+            <tr>
+                <td>@goods.Id</td>
+                <td>@goods.NameGoods</td>
+                <td>@goods.VendorCode</td>
+                <td>@goods.Price</td>
+                <td>@goods.ProductCategory</td>
+                <td>@Model.Groups.FirstOrDefault(x => x.Id == goods.GroupId)?.Name</td>
+                <td>
+                    <a href="/Goods/Edit/@goods.Id">Редактировать</a>
+                    <a href="/Goods/Delete/@goods.Id">Удалить</a>
+                </td>
+            </tr>
+        }
+    </table>
+
+</div>

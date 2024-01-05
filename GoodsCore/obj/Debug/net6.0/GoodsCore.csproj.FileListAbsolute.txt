@@ -1,0 +1,68 @@
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.deps.json
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.dll
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.pdb
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfo.cs
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.dll
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\refint\GoodsCore.dll
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.pdb
+C:\Users\HP\Desktop\ИванУчеба\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\ref\GoodsCore.dll
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.deps.json
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.dll
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.pdb
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.csproj.AssemblyReference.cache
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfoInputs.cache
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfo.cs
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.csproj.CoreCompileInputs.cache
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.dll
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\refint\GoodsCore.dll
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.pdb
+D:\Салов И.Д\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\ref\GoodsCore.dll
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.deps.json
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.dll
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.pdb
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.csproj.AssemblyReference.cache
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfoInputs.cache
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfo.cs
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.csproj.CoreCompileInputs.cache
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.dll
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\refint\GoodsCore.dll
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.pdb
+C:\Users\Ivan.Salov\Desktop\GoodsWebAPI\Goods\GoodsCore\obj\Debug\net6.0\ref\GoodsCore.dll
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.deps.json
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.dll
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\bin\Debug\net6.0\GoodsCore.pdb
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfo.cs
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.dll
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\obj\Debug\net6.0\refint\GoodsCore.dll
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\obj\Debug\net6.0\GoodsCore.pdb
+C:\Users\HP\Desktop\Point\Goods\GoodsCore\obj\Debug\net6.0\ref\GoodsCore.dll
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\bin\Debug\net6.0\GoodsCore.deps.json
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\bin\Debug\net6.0\GoodsCore.dll
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\bin\Debug\net6.0\GoodsCore.pdb
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\obj\Debug\net6.0\GoodsCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfoInputs.cache
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfo.cs
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\obj\Debug\net6.0\GoodsCore.csproj.CoreCompileInputs.cache
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\obj\Debug\net6.0\GoodsCore.dll
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\obj\Debug\net6.0\refint\GoodsCore.dll
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\obj\Debug\net6.0\GoodsCore.pdb
+C:\Users\trala\OneDrive\Рабочий стол\kekw\GoodsCore\obj\Debug\net6.0\ref\GoodsCore.dll
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\bin\Debug\net6.0\GoodsCore.deps.json
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\bin\Debug\net6.0\GoodsCore.dll
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\bin\Debug\net6.0\GoodsCore.pdb
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\obj\Debug\net6.0\GoodsCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfoInputs.cache
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\obj\Debug\net6.0\GoodsCore.AssemblyInfo.cs
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\obj\Debug\net6.0\GoodsCore.csproj.CoreCompileInputs.cache
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\obj\Debug\net6.0\GoodsCore.dll
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\obj\Debug\net6.0\refint\GoodsCore.dll
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\obj\Debug\net6.0\GoodsCore.pdb
+C:\Users\trala\OneDrive\Рабочий стол\tara_project_v3\GoodsCore\obj\Debug\net6.0\ref\GoodsCore.dll

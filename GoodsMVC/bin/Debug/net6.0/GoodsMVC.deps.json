@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GoodsMVC/1.0.0": {
+        "dependencies": {
+          "GoodsCore": "1.0.0"
+        },
+        "runtime": {
+          "GoodsMVC.dll": {}
+        }
+      },
+      "GoodsCore/1.0.0": {
+        "runtime": {
+          "GoodsCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoodsMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoodsCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,44 @@
+﻿@model List<GroupDto>
+@{
+    var title = "Добавление товара";
+    ViewData["Title"] = title;
+}
+
+<div class="text-left">
+    <h1 class="display-6">@title</h1>
+    <form action="/Goods/Add/" method="post">
+        <div class="mb-3">
+            <label class="form-label">Группа</label>
+            <select name="goods.groupId" class="form-control">
+                <option value="">-</option>
+                @foreach (var group in Model)
+                {
+                    <option value="@group.Id">@group.Name</option>
+                }
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Название книги</label>
+            <input type="text" name="goods.NameGoods" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Год издания</label>
+            <input type="text" name="goods.VendorCode" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Автор</label>
+            <input type="text" name="goods.ProductCategory" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Цена</label>
+            <input type="text" name="goods.Price" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Пароль</label>
+            <input type="password" name="goods.password" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Сохранить</button>
+    </form>
+
+</div>

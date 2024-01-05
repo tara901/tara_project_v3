@@ -1,0 +1,45 @@
+﻿@using Goods.Models;
+@model GoodsEditViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-left">
+    <h1 class="display-6">Редактирование книги</h1>
+    <form action="/Goods/Edit/" method="post">
+        <input type="hidden" name="goods.id" value="@Model?.Goods?.Id" />
+        <div class="mb-3">
+            <label class="form-label">Жанр</label>
+            <select name="goods.groupId" class="form-control">
+                <option value="">-</option>
+                @foreach (var group in Model.Groups ?? new List<GroupDto>())
+                {
+                    <option value="@group.Id" selected="@(Model.Goods?.GroupId == group.Id)">@group.Name</option>
+                }
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Название книги</label>
+            <input type="text" name="goods.NameGoods" value="@Model?.Goods?.NameGoods" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Год издания</label>
+            <input type="text" name="goods.VendorCode" value="@Model?.Goods?.VendorCode" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Автор</label>
+            <input type="text" name="goods.ProductCategory" value="@Model?.Goods?.ProductCategory" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Цена</label>
+            <input type="text" name="goods.Price" value="@Model?.Goods?.Price" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Пароль</label>
+            <input type="password" name="goods.password" value="@Model?.Goods? Password" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Сохранить</button>
+    </form>
+
+</div>
